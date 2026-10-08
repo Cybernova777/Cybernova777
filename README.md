@@ -1,20 +1,22 @@
 <div align="center">
 
-  <!-- TOP GLITCH/NEON BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080c,35:0d1117,70:002b14,100:00FF66&height=200&section=header&text=%E2%98%A2%20CYBERNOVA%20//%20SEC-OPS%20%E2%98%A2&fontSize=40&fontColor=00FF66&fontAlignY=42&desc=%E2%8C%A9%20CYBERSECURITY%20ANALYST%20%E2%80%A2%20THREAT%20HUNTER%20%E2%80%A2%20OFFENSIVE%20%26%20DEFENSIVE%20SECURITY%20%E2%8C%AA&descFontSize=14&descAlignY=68&descAlign=50&stroke=00FF66&strokeWidth=2" width="100%" alt="Cybernova Cyber Banner" />
+  <!-- TOP GLITCH/NEON BANNER (Tested & 100% Error-Free) -->
+  <a href="https://github.com/Cybernova777">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080c,35:0d1117,70:002b14,100:00FF66&height=200&section=header&text=CYBERNOVA%20//%20SEC-OPS&fontSize=40&fontColor=00FF66&fontAlignY=42&desc=%5B%20CYBERSECURITY%20ANALYST%20%E2%80%A2%20THREAT%20HUNTER%20%E2%80%A2%20RED%20AND%20BLUE%20TEAM%20OPS%20%5D&descFontSize=14&descAlignY=68&descAlign=50&stroke=00FF66&strokeWidth=2" width="100%" alt="Cybernova Cyber Banner" />
+  </a>
 
   <br/>
 
   <!-- DYNAMIC MATRIX TERMINAL STREAM -->
   <a href="https://github.com/Cybernova777">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&multiline=true&width=820&height=90&lines=%3E+INITIALIZING+MAINFRAME+NEURAL+LINK...+%5BOK%5D;%3E+OPERATOR%3A+Cybernova+%7C+SECURITY+CLEARANCE%3A+LEVEL-5+%2F+TOP-SECRET;%3E+ACTIVE+MODULES%3A+DFIR+%7C+THREAT+HUNTING+%7C+RED+TEAMING+%7C+CLOUD+DEFENSE;%3E+SCANNING+PERIMETERS%3A+ALL+FIREWALLS+ARMED+%26+ENCRYPTED" alt="Terminal Stream" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&multiline=true&width=820&height=90&lines=%3E+INITIALIZING+MAINFRAME+NEURAL+LINK...+%5BOK%5D;%3E+OPERATOR%3A+Cybernova+%7C+SECURITY+CLEARANCE%3A+LEVEL-5+%2F+TOP-SECRET;%3E+ACTIVE+MODULES%3A+DFIR+%7C+THREAT+HUNTING+%7C+RED+TEAMING+%7C+CLOUD+DEFENSE;%3E+SCANNING+PERIMETERS%3A+ALL+FIREWALLS+ARMED+AND+ENCRYPTED" alt="Terminal Stream" />
   </a>
 
   <br/>
 
   <!-- LIVE INFILTRATION & STATUS COUNTERS -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Cybernova777&style=for-the-badge&color=00ff66&label=INFILTRATION+COUNT&base=1024" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=Cybernova777&style=for-the-badge&color=00ff66&label=INFILTRATIONS" alt="Visitors" />
     <img src="https://img.shields.io/badge/SECURITY%20POSTURE-HARDENED-00FF66?style=for-the-badge&logo=shield&logoColor=0D1117&labelColor=0D1117" alt="Security Posture" />
     <img src="https://img.shields.io/badge/THREAT%20LEVEL-DEFCON%202-red?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0D1117" alt="Threat Level" />
     <img src="https://img.shields.io/badge/OPS%20MODE-ACTIVE%20HUNT-00FF66?style=for-the-badge&logo=target&logoColor=00FF66&labelColor=0D1117" alt="Ops Mode" />
