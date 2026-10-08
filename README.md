@@ -24,16 +24,61 @@
 
 ---
 
+### 📡 `root@cybernova:~# ./intercept_binary_broadcast.sh`
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ [BROADCAST_NODE_0x777] 🔴 LIVE FEED // BINARY STREAM INTERCEPTOR // NODE 127.0.0.1 // ENC: AES-256 │
+├──────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 01000011 01011001 01000010 01000101 01010010 01001110 01001111 01010110 01000001 00101110 01010011 │
+├──────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                  │
+│        [ MONITOR 1: INTERCEPTED BROADCAST ]                 [ MONITOR 2: SEC-OPS TELEMETRY ]    │
+│   ┌───────────────────────────────────────────┐       ┌──────────────────────────────────────┐   │
+│   │ [o] TV-SIGNAL: 01010011 01000101 01000011 │       │ 01101110 01101101 01100001 01110000  │   │
+│   │                                           │       │ > PORT 22/SSH   [OPEN]               │   │
+│   │               0101010101010               │       │ > PORT 80/HTTP  [FILTERED]           │   │
+│   │            0101010101010101010            │       │ > PORT 443/TLS  [INTERCEPTED]        │   │
+│   │          01010101010101010101010          │       │                                      │   │
+│   │         0101010101010101010101010         │       │ [THREAT MATRIX]                      │   │
+│   │        010101010101010101010101010        │       │ 01010100 01001000 01010010 01000101  │   │
+│   │        010101010101010101010101010        │       │ ATT&CK: T1059 [CMD_EXECUTION]        │   │
+│   │        010101   010101010   010101        │       │ STATUS: ZERO_DAY_PATCHED             │   │
+│   │        0101       01010       0101        │       │ IDS/IPS: ACTIVE_MONITORING           │   │
+│   │        010101   010101010   010101        │       │ DEFCON: 2 [HOSTILE_ENGAGED]          │   │
+│   │        010101010101010101010101010        │       │                                      │   │
+│   │         0101010101 0101 010101010         │       │ 01001100 01001111 01000111 01010011  │   │
+│   │          01010101010101010101010          │       │ [0x01] Wireshark: PCAP STREAM OK     │   │
+│   │           0101010         010101          │       │ [0x02] Splunk: SIEM ALERT 0          │   │
+│   │             010101010101010101            │       │ [0x03] Wazuh: AGENTS 48/48 ONLINE    │   │
+│   │                 0101010101                │       │ [0x04] Ghidra: DECOMPILE HOOK ACTIVE │   │
+│   │            010101010101010101010          │       └──────────────────────────────────────┘   │
+│   │          0101010101010101010101010        │                                                  │
+│   │         010101010101010101010101010       │       [ OPERATOR: HANDS FOLDED IN SHADOWS ]      │
+│   │        01010101 [DECLARATION] 01010       │            /\_/\      010101010101010101         │
+│   │        010101010101010101010101010        │           ( 0.0 )    01010101010101010101        │
+│   │        010101010101010101010101010        │          /  ===  \  0101010101010101010101       │
+│   └───────────────────────────────────────────┘         /|  /\_/\  |\  [MECHANICAL KEYBOARD]     │
+│                                                         | \/     \/ |  [... 010101010101 ...]    │
+├──────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ [DECODED TRANSMISSION]:                                                                          │
+│ 01010111 01000101 00100000 01000001 01010010 01000101 00100000 01001100 01000101 01000111       │
+│ >> "WE ARE ANONYMOUS. WE ARE LEGION. WE DO NOT FORGIVE. WE DO NOT FORGET. EXPECT US."          │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ### 🖥️ `root@cybernova:~# whoami --verbose`
 
-```ansi
-[1;32m╔══════════════════════════════════════════════════════════════════════════════════╗
-║  [1;37mIDENTIFIER :[1;32m Cybernova (Cybernova777)                                           ║
-║  [1;37mSPECIALTY  :[1;32m Advanced Threat Hunting | SOC & SIEM Analytics | Red/Blue Teaming  ║
-║  [1;37mOBJECTIVE  :[1;32m Neutralize Advanced Persistent Threats (APTs) & Secure Cloud Infra ║
-║  [1;37mHOST ARCH  :[1;32m Linux (Arch / Kali / Debian Hardened) | AWS Secure Enclaves        ║
-║  [1;37mENCRYPTION :[1;32m AES-256-GCM | Ed25519 Signed | Zero-Trust Architecture            ║
-╚══════════════════════════════════════════════════════════════════════════════════╝[0m
+```text
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║   IDENTIFIER : Cybernova (Cybernova777)                                          ║
+║   SPECIALTY  : Advanced Threat Hunting | SOC & SIEM Analytics | Red/Blue Teaming ║
+║   OBJECTIVE  : Neutralize Advanced Persistent Threats (APTs) & Secure Cloud Infra║
+║   HOST ARCH  : Linux (Arch / Kali / Debian Hardened) | AWS Secure Enclaves       ║
+║   ENCRYPTION : AES-256-GCM | Ed25519 Signed | Zero-Trust Architecture           ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ```bash
